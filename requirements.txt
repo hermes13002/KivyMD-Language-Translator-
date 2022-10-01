@@ -1,0 +1,4 @@
+Python==3.9.0
+Kivy==2.1.0
+KivyMD==0.104.2
+Deep-translator==1.9.0
